@@ -11,8 +11,8 @@ function ProcessAttack(argument0, argument1){
 	
 	mask_index = argument1;
 	var hitByAttackNow = ds_list_create();
-	var hits = instance_place_list(x,y,obj_enemy,hitByAttackNow,false);
-	if (hits >0)
+	var hits = instance_place_list(x,y,obj_enemy_base,hitByAttackNow,false);
+	if (hits > 0)
 	{
 		for (var i= 0; i < hits; i++)
 		{
@@ -25,7 +25,8 @@ function ProcessAttack(argument0, argument1){
 				{
 					state = ENEMYSTATE.HIT
 					hp--
-					ScreenShake(4, 10);
+					flash = 3;
+					ScreenShake(5, 10);
 				}
 			}
 		}

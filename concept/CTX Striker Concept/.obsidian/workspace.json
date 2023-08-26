@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d24b02c7575a2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Repo Path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Commands.md",
+                "file": "Git Repo Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Commands.md",
+                "file": "Git Repo Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Commands.md"
+                "file": "Git Repo Path.md"
               }
             }
           }
@@ -179,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb53b125dbc234ac",
+  "active": "9d24b02c7575a2d5",
   "lastOpenFiles": [
-    "Pasted image 20230820212429.png",
     "Git Commands.md",
+    "Git Repo Path.md",
+    "Pasted image 20230820212429.png",
     "Game Development Plan.md",
     "Game Concept.md",
     "CTX Striker Core Gameplay .png",
