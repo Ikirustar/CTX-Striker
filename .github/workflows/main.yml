@@ -1,0 +1,17 @@
+name: Test Feature Branch
+
+on:
+  push:
+    branches:
+      - feature/Enemy-Structure
+
+jobs:
+    test:
+      runs-on : windows
+
+      steps:
+        - name: Checkout code
+          uses: actions/checkout@v2
+
+        - name: Print a message
+          run: echo "Testing feature branch"
