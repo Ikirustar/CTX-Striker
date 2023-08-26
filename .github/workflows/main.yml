@@ -3,15 +3,15 @@ name: Test Feature Branch
 on:
   push:
     branches:
-      - feature/Enemy-Structure
+      - features/Enemy-Structure
 
 jobs:
-    test:
-      runs-on: ubuntu-latest
+  test:
+    runs-on: ubuntu-latest
 
-      steps:
-        - name: Checkout code
-          uses: actions/checkout@v2
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-        - name: Print a message
-          run: echo "Testing feature branch"
+      - name: Print a message
+        run: echo "Testing feature branch"
