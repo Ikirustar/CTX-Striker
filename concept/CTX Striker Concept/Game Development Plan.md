@@ -1,52 +1,103 @@
-**Day 1-2: Conceptualization and Planning**
+**Phase 1: Learning and Preparation**
 
-- **Day 1:**
+1. **Conceptualization and Idea Generation:**
+    - Brainstorm exciting game ideas and concepts.
+    - We'll choose a game idea that aligns with our current skills and project scope.
     
-    - Hold a detailed discussion with your partner to finalize the game concept, including the theme, setting, characters, and core gameplay mechanics.
-    - Define the scope: What will the game include in terms of levels, enemies, interactions, and features? Keep it small and achievable within the given timeframe.
-    - Create a basic game design document outlining the key features, level structure, and overall vision.
-- **Day 2:**
+1. **Learning Game Design Basics:**
+    - I'll dive into studying game design principles, mechanics, and the player experience.
+    - Understanding what makes games enjoyable and engaging is crucial.
     
-    - Plan out the level design: Draw sketches of the levels on paper or use a simple level editor. Design a single level that introduces the core gameplay mechanics.
-    - Decide on the visual style, art direction, and character designs.
-    - Determine the technical requirements and potential challenges for the game.
+1. **Developing Core Skills:**
+    - For me (the programmer):
+        - I'll become more familiar with GML (GameMaker Language).
+        - I'll learn more about github and github actions.
+        - I'll delve into advanced topics like state machines, pathfinding, and particle systems. As well as getting workflows to run and merging branches.
+    - For our artist (my partner):
+        - You'll focus on developing skills in pixel art, 2D animation, and character design.
+        - Familiarize yourself with (insert the name of your preferred art tool).
 
-**Day 3-5: Implementation**
+**Phase 2: Prototyping and Design**
 
-- **Day 3-4:**
+5. **Create a Design Document:**
+    - Let's outline our game's story, mechanics, levels, and characters.
+    - We need to define the scope and objectives of our demo.
     
-    - Begin implementing the core gameplay mechanics using the knowledge you've gained from the tutorials you've watched.
-    - Set up player movement, jumping, and basic collision handling.
-    - Implement a basic enemy or obstacle in your chosen level.
-    - Your partner can start creating the art assets for the characters, platforms, and obstacles.
-- **Day 5:**
-    
-    - Integrate your partner's artwork into the game.
-    - Implement a working camera system that follows the player and ensures a smooth view of the level.
-    - Test and iterate on the mechanics and controls to ensure they feel responsive and enjoyable.
+1. **Rapid Prototyping:**
+    - It's time to start building a small prototype of the game.
+    - Our primary focus should be on creating a playable and enjoyable core gameplay loop.
 
-**Day 6-7: Polish and Level Design**
+**Phase 3: Development**
 
-- **Day 6:**
+7. **Level Design:**
+    - We'll design and construct the levels for our demo.
+    - Let's incorporate enemy behaviors, obstacles, and interactive elements.
     
-    - Continue refining the level design, adding more platforms, obstacles, and enemies.
-    - Implement basic sound effects using free or royalty-free resources available online.
-    - Work on fine-tuning the player's movement and collision mechanics.
-- **Day 7:**
+1. **Art and Assets:**
+    - You, our talented artist, will create character sprites, environment assets, and animations.
+    - We must ensure a cohesive art style that matches our game's theme.
     
-    - Focus on improving the overall visual appeal by adding background elements, parallax scrolling, and other art details.
-    - Test the level for difficulty balance and adjust as needed.
-    - Incorporate a basic scoring system or collectibles to give players a sense of progression.
+2. **Coding and Scripting:**
+    - I'll take the lead in implementing game mechanics, enemy behaviors, and interactions.
+    - Let's work together to develop systems for player input, health, and progression.
 
-**Day 8-9: Finalization and Testing**
+**Phase 4: Testing and Refinement**
 
-- **Day 8:**
+10. **Testing and Debugging:**
+    - We'll need to playtest the game extensively.
+    - Identifying and fixing bugs and addressing gameplay issues will be a priority.
+    - We'll also pay attention to balancing the game's difficulty.
+
+**Phase 5: Demo Release and Feedback**
+
+11. **Create a Game Jolt Account:**
+    - We'll sign up on Game Jolt to publish our demo.
+    - Preparing all the necessary information and assets for our game's page is crucial.
     
-    - Complete the remaining art assets, ensuring consistency in style.
-    - Implement transitions between levels (if applicable).
-    - Add any final touches to the level design, ensuring a smooth player experience.
-- **Day 9:**
+1. **Publish the Demo:**
+    - We'll upload our demo to Game Jolt.
+    - Let's actively share it with friends, gaming communities, and social media.
+    - Encouraging players to provide feedback will be essential.
+
+**Phase 6: Post-Demo Improvements**
+
+13. **Review Feedback:**
+    - Once we gather player feedback, we'll analyze it carefully.
+    - Identifying areas for improvement and prioritizing changes and enhancements will be our focus.
+
+1. **Iterate and Polish:**
+    - It's time to implement those improvements and polish the game further.
+    - We should also consider expanding the demo with additional content.
+
+**Phase 7: Porting and Distribution**
+
+15. **Port to Windows and Linux:**
+    - To reach a wider audience, we'll use platform-specific tools or frameworks for Windows and Linux.
+    - Ensuring compatibility and optimal performance on both platforms is crucial.
+
+1. **Prepare for Steam:**
+    - Researching Steam's requirements and guidelines for game submission is necessary.
+    - We'll create an enticing Steam store page with engaging visuals and descriptions.
+
+2. **Steam Early Access:**
+    - Considering an Early Access release on Steam will allow us to continue refining the game based on player feedback.
+
+**Phase 8: Full Release and Marketing**
+
+18. **Full Game Development:**
+    - Expanding the game beyond the demo is our next big step.
+    - Adding new levels, features, and content while maintaining a strong focus on quality and user experience is key.
+
+1. **Marketing and Promotion:**
+    - It's time to develop a comprehensive marketing plan.
+    - This includes creating trailers, captivating screenshots, and engaging press releases to build anticipation for the full game's release.
+
+**Phase 9: Steam Release and Beyond**
+
+20. **Publish on Steam:**
+    - We'll submit the full game to Steam, following their submission process carefully.
+    - Launching the game with a well-planned marketing campaign will be essential to attract players.
     
-    - Conduct thorough playtesting to identify any bugs, glitches, or balancing issues.
-    - Make necessary fixes based on playtesting feedback.
-    - Create a build of the game that showcases the level you've been working on.
+1. **Post-Launch Support:**
+    - Supporting the game post-launch with updates, bug fixes, and additional content is crucial for maintaining a satisfied player base.
+    - Engaging with the community and gathering ongoing feedback will help us shape the game's future.

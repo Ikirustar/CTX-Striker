@@ -1,1 +1,1 @@
-f/Game Maker Studio Games/CTX-Striker
+F:/"Game Maker Studio Games"/CTX-Striker

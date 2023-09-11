@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"5b71585e7e703278","type":"text","text":"### Github\n\nManaging branches and version control. \n\n*potentially running workflows to test code*","x":60,"y":-720,"width":420,"height":180,"color":"#a9a8e1"},
+		{"id":"45b080a8605fd5dd","type":"text","text":"## Git Bash\n\nAdding changes and making commits","x":157,"y":-440,"width":226,"height":140,"color":"#424242"},
+		{"id":"31133048035772fe","type":"text","text":"### Ubuntu Linux\n","x":520,"y":-271,"width":220,"height":71,"color":"1"},
+		{"id":"38dbdacc586990b9","type":"text","text":"### Windows\n","x":520,"y":-182,"width":220,"height":81,"color":"#0084ff"},
+		{"id":"6cb1f1855102ca23","type":"text","text":"### Game Maker Studio \n\nDeveloping the game using GML and the editor.","x":-300,"y":-271,"width":290,"height":170,"color":"4"},
+		{"id":"27d980da3c8e98d2","type":"text","text":"# CTX Striker\n\n","x":159,"y":-221,"width":223,"height":80,"color":"#e69d00"},
+		{"id":"acf08202d5008e33","type":"text","text":"### Game Jolt\n\nPublish demo of game for testing","x":780,"y":-480,"width":190,"height":130,"color":"#c0f500"}
+	],
+	"edges":[
+		{"id":"8b7319d5bbe262e7","fromNode":"6cb1f1855102ca23","fromSide":"right","toNode":"27d980da3c8e98d2","toSide":"left"},
+		{"id":"50f6160875aaeeee","fromNode":"27d980da3c8e98d2","fromSide":"top","toNode":"45b080a8605fd5dd","toSide":"bottom"},
+		{"id":"11a10f791ec1a92b","fromNode":"45b080a8605fd5dd","fromSide":"top","toNode":"5b71585e7e703278","toSide":"bottom","label":"Push to changes to branches"},
+		{"id":"64d8430fe10dc335","fromNode":"27d980da3c8e98d2","fromSide":"right","toNode":"31133048035772fe","toSide":"left"},
+		{"id":"b9830bf7b20bf927","fromNode":"27d980da3c8e98d2","fromSide":"right","toNode":"38dbdacc586990b9","toSide":"left"},
+		{"id":"a1ac035eab9703e6","fromNode":"38dbdacc586990b9","fromSide":"right","toNode":"acf08202d5008e33","toSide":"bottom"},
+		{"id":"2e1307ee7ceb4ead","fromNode":"31133048035772fe","fromSide":"right","toNode":"acf08202d5008e33","toSide":"bottom"}
+	]
+}
