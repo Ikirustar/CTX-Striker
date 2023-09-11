@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Development Plan.md",
+                "file": "Git Repo Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Development Plan.md",
+                "file": "Git Repo Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Development Plan.md"
+                "file": "Git Repo Path.md"
               }
             }
           }
@@ -193,23 +193,23 @@
   },
   "active": "9d24b02c7575a2d5",
   "lastOpenFiles": [
+    "Pasted image 20230820212429.png",
+    "Git Repo Path.md",
+    "Git Commands.md",
+    "Game Development Plan.md",
+    "Game Concept.md",
+    "Development Structure.canvas",
+    "Attachments/da602f05-90ba-4000-9cd9-3fe32dc84dec.png",
+    "Attachments/CTX Striker Movement (1).png",
+    "Attachments/CTX Striker Core Gameplay .png",
+    "Attachments/CTX Striker Core Gameplay  (1).png",
+    "Attachments/CTX Striker Core Gameplay  1.png",
+    "Attachments",
     "da602f05-90ba-4000-9cd9-3fe32dc84dec.png",
     "CTX Striker Movement (1).png",
     "CTX Striker Core Gameplay .png",
     "CTX Striker Core Gameplay  1.png",
     "CTX Striker Core Gameplay  (1).png",
-    "Git Repo Path.md",
-    "Game Development Plan.md",
-    "Development Structure.canvas",
-    "Pasted image 20230820212429.png",
-    "Game Concept.md",
-    "Attachments/da602f05-90ba-4000-9cd9-3fe32dc84dec.png",
-    "Attachments/CTX Striker Core Gameplay  (1).png",
-    "Attachments",
-    "Untitled",
-    "Git Commands.md",
-    "Attachments/CTX Striker Core Gameplay .png",
-    "Attachments/CTX Striker Movement (1).png",
-    "Attachments/CTX Striker Core Gameplay  1.png"
+    "Untitled"
   ]
 }
