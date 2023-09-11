@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Development Plan.md",
+                "file": "Git Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Repo Path.md",
+                "file": "Git Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Repo Path.md",
+                "file": "Git Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Repo Path.md"
+                "file": "Git Commands.md"
               }
             }
           }
@@ -193,12 +193,12 @@
   },
   "active": "9d24b02c7575a2d5",
   "lastOpenFiles": [
-    "Pasted image 20230820212429.png",
+    "Development Structure.canvas",
+    "Game Concept.md",
     "Git Repo Path.md",
     "Git Commands.md",
     "Game Development Plan.md",
-    "Game Concept.md",
-    "Development Structure.canvas",
+    "Attachments/Pasted image 20230820212429.png",
     "Attachments/da602f05-90ba-4000-9cd9-3fe32dc84dec.png",
     "Attachments/CTX Striker Movement (1).png",
     "Attachments/CTX Striker Core Gameplay .png",
@@ -209,7 +209,6 @@
     "CTX Striker Movement (1).png",
     "CTX Striker Core Gameplay .png",
     "CTX Striker Core Gameplay  1.png",
-    "CTX Striker Core Gameplay  (1).png",
     "Untitled"
   ]
 }
