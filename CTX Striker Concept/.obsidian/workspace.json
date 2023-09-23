@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Commands.md",
+                "file": "Git Repo Path.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Commands.md",
+                "file": "Git Repo Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Commands.md",
+                "file": "Git Repo Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Commands.md"
+                "file": "Git Repo Path.md"
+              }
+            }
+          },
+          {
+            "id": "f1e02852472b034e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -193,17 +203,17 @@
   },
   "active": "9d24b02c7575a2d5",
   "lastOpenFiles": [
-    "Development Structure.canvas",
     "Game Concept.md",
-    "Git Repo Path.md",
-    "Git Commands.md",
-    "Game Development Plan.md",
-    "Attachments/Pasted image 20230820212429.png",
     "Attachments/da602f05-90ba-4000-9cd9-3fe32dc84dec.png",
-    "Attachments/CTX Striker Movement (1).png",
     "Attachments/CTX Striker Core Gameplay .png",
-    "Attachments/CTX Striker Core Gameplay  (1).png",
+    "Attachments/Sword Swinging Mechanics.png",
+    "Attachments/Movement.png",
+    "Development Structure.canvas",
+    "Game Development Plan.md",
+    "Git Commands.md",
+    "Attachments/Basic Controls.png",
     "Attachments/CTX Striker Core Gameplay  1.png",
+    "Git Repo Path.md",
     "Attachments",
     "da602f05-90ba-4000-9cd9-3fe32dc84dec.png",
     "CTX Striker Movement (1).png",
